@@ -6,7 +6,7 @@
 'Olav Schettler <olav@tinkerthon,de>, 2014-05-15
 
 #PICAXE 08M
-sertxd ("fireflies03:ce37b8e")
+sertxd ("fireflies03:39b98cc")
 
 symbol led = b0
 symbol wire1 = 1
